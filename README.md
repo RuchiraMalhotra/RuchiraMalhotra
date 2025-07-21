@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @RuchiraMalhotra - Technical/IT Recruiter 
-- 👀 I’m interested in connecting people to their dream jobs
+- 👋 Hi, I’m @RuchiraMalhotra 
+- 👀 I look forward to learning and implementing new ideas
 - 📫 How to reach me - ruchira.toronto@gmail.com
 
 <!---
