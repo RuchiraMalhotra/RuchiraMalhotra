@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RuchiraMalhotra 
-- 👀 I look forward to learning and implementing new ideas
+- 👀 I look forward to collaborating to implementing new ideas
 - 📫 How to reach me - ruchira.toronto@gmail.com
 
 <!---
