@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RuchiraMalhotra 
-- 👀 I look forward to collaborating to implementing new ideas
-- 📫 How to reach me - ruchira.toronto@gmail.com
+Hi, I’m @RuchiraMalhotra 
+Welcome to my github.
+Here you will find projects related to data analysis.
 
 <!---
 RuchiraMalhotra/RuchiraMalhotra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
